@@ -1,0 +1,15 @@
+body{
+    color: brown;
+    background-color:beige;
+}
+img{
+    width: 150px;
+    height: 150px;
+    text-align: right;
+    border-radius: 60%;
+}
+header{
+    color: beige;
+   background-color: brown;
+   
+}
